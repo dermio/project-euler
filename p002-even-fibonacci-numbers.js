@@ -72,5 +72,8 @@ a + b > new number
                 3 + 5 > 8
                     5 + 8 > 13
                         8 + 13 > 21
-*/
 
+
+The Fibonacci sequence Rule is:
+F(n) = F(n-1) + F(n-2)
+*/
