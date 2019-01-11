@@ -20,7 +20,8 @@ function primeFactors(num) {
     }
   }
 
-  return arr;
+  // return arr; // [ 71, 839, 1471, 6857 ]
+  return arr[arr.length - 1];
 }
 
 let it = primeFactors(600851475143);
